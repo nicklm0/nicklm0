@@ -2,9 +2,9 @@
 
 ##  Hi there! 👋
 
-<!-- About me
+About me
 I'm a creative software engineer passionate about tackling complex challenges and crafting innovative solutions. I thrive on turning ideas into impactful products. I'm eager to leverage my skills in a dynamic tech company with a global presence, where I can contribute to meaningful projects and continue to grow as a software engineer  
-<!-- [![Visits](https://komarev.com/ghpvc/?username=nickaldwin&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/nickaldwin)
+[![Visits](https://komarev.com/ghpvc/?username=nickaldwin&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/nickaldwin)
 [![Twitter](https://img.shields.io/badge/dev_nicklm-1d1f21?style=flat&logo=twitter&logoColor=00acee)](https://www.twitter.com/dev_nicklm)
 [![Linkedin](https://img.shields.io/badge/Let%27s%20Connect%21-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nicklemoncito)
 [![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:nicklemoncito98@gmail.com)
@@ -12,7 +12,7 @@ I'm a creative software engineer passionate about tackling complex challenges an
 
 
 
-<!-- Tech Stack
+Tech Stack
 ##  Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,7 +31,6 @@ I'm a creative software engineer passionate about tackling complex challenges an
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=Gitlab&logoColor=FC6D26)
 
--->
 <!-- Featured Projects -->
 
 <!--##  Featured Projects--->
